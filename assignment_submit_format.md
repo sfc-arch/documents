@@ -5,13 +5,13 @@
 
 対象の課題のレポジトリへ移動し、ウィンドウ右上の`Fork`ボタンを押すと自分のレポジトリとして課題レポジトリのコピーを作成することができます。
 
-[[/fork.png]]
+![Forkボタン](images/fork.png)
 
 #### 2.レポジトリをローカルにクローンする
 
 下の画像にあるForkしたレポジトリのURL(git@github.com:<ユーザ名>/<レポジトリ名>.git)をクリップボードにコピーし、下記のコマンドでローカルにクローンします。
 
-[[/url.png]]
+![クローンURL](images/url.png)
 
 ```
 $ cd <レポジトリのクローンを作成したいディレクトリ>
@@ -37,14 +37,14 @@ $ git push origin master:master
 課題を完了したら、GithubからリモートレポジトリにPullRequestを送ることで課題を提出します。
 PullRequestは下の画像のように矢印マーク(Compare and Pull requestボタン)を押したあと、`Create pull request`ボタンで作成します。
 
-[[/compare_btn.png]]
+![Compare and Pull requestボタン](images/compare_btn.png)
 
-[[/pr_btn.png]]
+![Create pull requestボタン](images/pr_btn.png)
 
 PullRequestを作成する画面に移るので、下の画像のように、適切なタイトルと加えて実装した機能や不安な部分などをコメントに書いて`Create pull request`ボタンでPullRequestを送信します。
 コメントはなるべく丁寧に書くよう気をつけましょう。
 
-[[/pr.png]]
+![Create pull requestボタン2](images/pr.png)
 
 #### 5.レビューの内容をプログラムに反映する
 
