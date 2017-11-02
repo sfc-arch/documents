@@ -15,6 +15,6 @@
 ### phi
 - netmapのサンプルコード
   - [echo](https://github.com/Phi-phi/memNetmap/tree/master/sample/echo)
-  - [echo (一度に大量パケット latest)](https://github.com/Phi-phi/memNetmap/tree/lots_pkts/sample/echo/c_side)
+  - [echo (一度に大量パケット latest ver.)](https://github.com/Phi-phi/memNetmap/tree/lots_pkts/sample/echo/c_side)
 
 ### nef
