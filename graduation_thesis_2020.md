@@ -2,6 +2,6 @@
 
 リポジトリへのリンク置き場
 
-- [yatty]()
-- [fumi]()
-- [nyatsume]()
+- [x] [yatty](https://github.com/Yatty1/thesis)
+- [ ] [fumi]()
+- [ ] [nyatsume]()
