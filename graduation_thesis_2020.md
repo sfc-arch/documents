@@ -3,5 +3,5 @@
 リポジトリへのリンク置き場
 
 - [x] [yatty](https://github.com/Yatty1/thesis)
-- [ ] [fumi]()
+- [x] [fumi](https://github.com/fumimaker/graduation_thesis)
 - [ ] [nyatsume]()
