@@ -2,5 +2,4 @@
 リポジトリへのリンク置き場
 
 - [ ] supachan
-- [ ] [masatora](https://github.com/web-shiori/thesis)
- - [ ] [PDF](https://github.com/web-shiori/thesis/releases/download/2021.12.02-00.10.07/thesis.pdf)
+- [ ] [masatora](https://portal.sfc.wide.ad.jp/en/meetings/2021f/gp2_pre-submission/masatora)
