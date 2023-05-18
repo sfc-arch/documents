@@ -1,0 +1,48 @@
+# 2023/05/11
+
+## 参加者
+
+- hotaka
+- cosocaf
+- mii
+- keitaro
+- mkei
+
+### 論文輪講
+hotaka (wasmachine 続き)
+
+### Linux reading
+mkei (per-cpu変数の仕組みについて)
+
+### 定例報告
+
+#### hotaka
+
+- パイプラインの実装をした
+- ベクトル拡張命令の実装について読み進めている
+- [読み始めた](https://seiya.me/microkernel-book.pdf)
+
+#### cosocaf
+
+- カーネル実装継続中
+
+#### mii
+
+- EAGLYS（準同型暗号の会社）行ってきた
+    - 8月からインターン予定になった
+
+#### keitaro
+
+- [riscvの教科書読み始めた](https://www.sugawara-lab.jp/fig/xv6-riscv-jpn.pdf)
+
+#### mkei
+
+- 業務、開始……
+
+
+### 来週論文臨港
+人前回から減ったしNotion計画いけるんちゃう？
+#### Linux
+cosocaf
+#### 論文読み
+mkei
